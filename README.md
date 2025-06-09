@@ -21,5 +21,5 @@ You'll need a C compiler (e.g., `gcc`) installed on your system.
 ### 🔧 Compilation
 
 ```bash
-gcc stack.c -o stack
+gcc stack -o stack.c
 ./stack
